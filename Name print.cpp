@@ -2,7 +2,7 @@
 Student Name: Shivam Paudel
 Roll no:
 Lab Sheet no: 10
-Program: C program to use relational operator
+Program: C program to print your name
 Date: 07/12/2016
 */
 #include<stdio.h>
