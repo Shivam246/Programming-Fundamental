@@ -15,6 +15,6 @@ int main()
 	printf("Enter the second number");
 	scanf("%d",&b);
 	sum=a+b;
-	printf("The sum of two product is %d",sum);
+	printf("The sum of two number is %d",sum);
 	getch();
 }
