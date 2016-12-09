@@ -16,7 +16,7 @@ int main()
 		scanf("%d",&b);
 		printf("Enter third number\n");
 		scanf("%d",&c);
-		(a>=b&&a>=c)?printf("The largest number is %d",a):(b>=a&&b>=a)?printf("The largest number is %d",b):printf("The largest number is %d",c);
+		(a>=b&&a>=c)?printf("The largest number is %d",a):(b>=a&&b>=c)?printf("The largest number is %d",b):printf("The largest number is %d",c);
 		getch();
 		return(0);
 		
