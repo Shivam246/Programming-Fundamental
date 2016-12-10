@@ -1,7 +1,7 @@
 /*
 Student Name: Shivam Paudel
 Roll no:
-Lab Sheet no: 10
+Lab Sheet no: 1
 Program: C program to print your name, ask from user
 */
 
