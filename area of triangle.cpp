@@ -2,7 +2,7 @@
 Student Name: Shivam Paudel
 Roll no:
 Lab Sheet no: 2
-Program: C program to print the area of triangle, based and height asked from user.
+Program: C program to print the area of triangle, base and height asked from user.
 Date: 10/12/2016
 */
 #include<stdio.h>
