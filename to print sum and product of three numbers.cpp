@@ -2,7 +2,7 @@
 Student Name: Shivam Paudel
 Roll no:
 Lab Sheet no: 2
-Program: C program to print sum of two number , asked from user.
+Program: C program to print sum aand product of two number , asked from user.
 Date: 07/12/2016
 */
 #include<stdio.h>
